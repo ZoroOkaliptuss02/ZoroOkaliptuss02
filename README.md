@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ? 
 (❁´◡`❁)
+
 ![Uploading DiscordDiscordLogoGIF.gif…]()
-  with discord okaliptuss
+
+   with discord okaliptuss
 
 <!---
 ZoroOkaliptuss02/ZoroOkaliptuss02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
