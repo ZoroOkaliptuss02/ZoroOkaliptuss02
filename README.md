@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ZoroOkaliptuss02
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ? 
+- 📫 How to reach me ?
+- 😄 Pronouns: He/His
+- 🤔 I’m looking for help with my project ideas.
 (❁´◡`❁)
 
 ![Uploading DiscordDiscordLogoGIF.gif…]()
